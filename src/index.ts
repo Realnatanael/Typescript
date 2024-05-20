@@ -359,3 +359,4 @@ console.log(clã2); //Aqui exibimos o array de membros do clã2 no console.
 //O filho é adicionado ao array de membros do clã1.
 //O array de membros do clã1 é exibido no console.
 
+//Aqui declaramos a classe Clã.                 
